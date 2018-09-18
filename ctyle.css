@@ -1,0 +1,74 @@
+
+body { background: url(back.png);
+    background-size: cover; height: auto;
+     background-position: fixed;background-repeat: no-repeat }
+   
+a { font-size: 30px;font-style: oblique;color: blanchedalmond}
+.company {font-style: initial;font-size: 20px;color:rgb(250, 214, 201)}     
+h2{ font-size: 20px;font-style: italic;color:#ffffff; font-weight: 400;
+ }
+.contact { 
+    font-size: 20px ; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+#help {
+font-size: 40px; font-family: 'Times New Roman', Times, serif; color: rgb(231, 177, 219)
+
+}
+#su {
+    color:rgb(146, 101, 146); font: unset; font-size: 40px;
+}
+.contact{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: aquamarine;
+}
+#vps {
+    text-align: center; color: antiquewhite; font: initial; font-size: 60px;
+}
+.lsit { text-align: center;
+
+}
+.produkt1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px; color: bisque; text-align: center;
+}
+.produkt2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px; color: bisque; text-align: center;
+}
+.produkt3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px; color: bisque; text-align: center;
+}
+.produkt4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px; color: bisque; text-align: center;
+}
+h3{
+    font-size:60px; color:aliceblue; font-style:inherit; text-align: center;
+}
+ #order { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px; color: bisque; text-align: center;
+ }
+
+ #reg {
+     color: rgb(241, 137, 137); font-family: 'Courgette', cursive;
+     text-align: center ;
+ }
+
+ .reg { 
+font-style: unset;  color: black; font-size: 22px; text-align: center;
+
+ }
+ form {
+    border:13px ; background: url(reg.png);
+    background-size: cover; height: 100%; width: 100%;
+     background-position:center ; background-repeat: no-repeat;
+     
+    }
+    
+#thx { font-family: 'Courgette', cursive;
+    text-align: center ; font-size: 40px;
+
+}
+.vps {
+     color: antiquewhite; font: initial; font-size: 60px; background-color: green;
+}
+.host {
+    color: antiquewhite; font: initial; font-size: 60px; background-color: green;
+
+}
